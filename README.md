@@ -57,3 +57,16 @@ py manage.py runserver
 ```
 http://127.0.0.1:8000/
 ```
+<h3>Snapshots</h3>
+
+![image](https://github.com/aayushdewangan11/Blood-Donation/assets/79148304/5434c6dd-909d-4484-b5a8-632b03fedbc5)
+
+![image](https://github.com/aayushdewangan11/Blood-Donation/assets/79148304/9d8eded9-a5ee-44b0-aaab-42e96d2d8395)
+
+![image](https://github.com/aayushdewangan11/Blood-Donation/assets/79148304/af745635-c45d-4085-b435-9ed9c4a429fa)
+
+![image](https://github.com/aayushdewangan11/Blood-Donation/assets/79148304/adde0c9c-7dc0-4fe6-b370-c03fa7d7ab96)
+
+
+
+
